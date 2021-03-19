@@ -1,4 +1,4 @@
-# User-Management
+# User Management Program
 A C++ program for managing the information of users 
 - Add new user information (first name, surname, phone number, username, password)
 - Search based on user's first name
