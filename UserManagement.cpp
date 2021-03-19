@@ -202,7 +202,7 @@ void loop(User *userList, Admin *admin, int size){
     cout << "1: add new user information\n";
     cout << "2: search based on user's first name\n";
     cout << "3: update user's username and password\n";
-	cout << "4: set permission for users\n"; 
+    cout << "4: set permission for users\n"; 
     cout << "5: remove permission for users\n";
     cout << "6: print the user list\n";
     cout << "Enter your option(0->6): ";
